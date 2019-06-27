@@ -9,3 +9,4 @@ En este curso aprendemos:
 - Flujo de trabajo en GitHub
 - Hecho por Platzi
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
