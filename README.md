@@ -8,8 +8,5 @@ En este curso aprendemos:
 - Comandos de Git
 - Flujo de trabajo en GitHub
 - Hecho por Platzi
-<<<<<<< HEAD
-=======
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
->>>>>>> readme-mejorado
