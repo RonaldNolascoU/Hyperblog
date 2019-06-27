@@ -7,3 +7,4 @@ Proyecto del curso de Platzi de Git y Github Profesional
 En este curso aprendemos:
 - Comandos de Git
 - Flujo de trabajo en GitHub
+- Hecho por Platzi
