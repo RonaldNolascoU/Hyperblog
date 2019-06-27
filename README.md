@@ -8,3 +8,4 @@ En este curso aprendemos:
 - Comandos de Git
 - Flujo de trabajo en GitHub
 - Hecho por Platzi
+- Incluye ejemplos en Windows, Linux y Mac
